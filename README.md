@@ -1,5 +1,5 @@
 # ExpenseTracker 
-".Net Project, Backend only"/n
--.Net Web Framework /n
--No Authentiction,Authorization /n
+".Net Project, Backend only" </br>
+-.Net Web Framework </br>
+-No Authentiction,Authorization </br>
 -Very basic project 
